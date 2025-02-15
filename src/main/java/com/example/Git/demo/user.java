@@ -1,6 +1,7 @@
 package com.example.Git.demo;
 
 public class user {
+
     private int id;
     private String name;
     private String address;
